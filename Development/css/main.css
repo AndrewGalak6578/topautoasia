@@ -737,11 +737,11 @@ textarea[readonly] {
 }
 
 .divider-pricing {
-    background-image: url("http://placehold.it/1400x986");
+    background-image: url("../assets/img/1400x450_4.png");
 }
 
 .divider-portfolio {
-    background-image: url("http://placehold.it/1400x450");
+    background-image: url("../assets/img/1400x450_3.png");
 }
 
 .divider-blog {
@@ -1088,7 +1088,7 @@ textarea[readonly] {
 
 /* Section Wrap */
 .section-wrap {
-    border-bottom: 2px solid #e6eaed;
+    border-bottom: 2px solid #ff2b2b;
     padding: 65px 20px 0 20px;
     background: white;
 
