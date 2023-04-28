@@ -15,7 +15,7 @@ ____________________________________
 '.$message.'
 ------------------------------------';
 
-mail('YOUR_EMAIL_HERE', 'Message from YOUR_DOMAIN_HERE', $message, 'From: '.$email);
+mail('topavtoasia@gmail.com', 'Message from YOUR_DOMAIN_HERE', $message, 'From: '.$email);
 
 echo 'Thank you for your message!';
 ?>
